@@ -1,0 +1,11 @@
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\bin\Debug\BilgeRestoran.exe.config
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\bin\Debug\BilgeRestoran.exe
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\bin\Debug\BilgeRestoran.pdb
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\obj\Debug\BilgeRestoran.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\obj\Debug\BilgeRestoran.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\obj\Debug\BilgeRestoran.Form1.resources
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\obj\Debug\BilgeRestoran.Properties.Resources.resources
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\obj\Debug\BilgeRestoran.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\obj\Debug\BilgeRestoran.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\obj\Debug\BilgeRestoran.exe
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\OOP\Sınav\BilgeRestoran\BilgeRestoran\obj\Debug\BilgeRestoran.pdb
